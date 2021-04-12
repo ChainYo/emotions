@@ -1,0 +1,6 @@
+numpy
+pandas
+seaborn
+opencv-python
+mtcnn-opencv
+tensorflow
